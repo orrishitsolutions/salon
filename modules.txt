@@ -1,0 +1,90 @@
+http://www.niswarthsewa.com/index.html
+
+http://www.niswarthsewa.com/blog.html
+http://www.niswarthsewa.com/single-blog.html
+
+http://www.niswarthsewa.com/sub-category.html
+http://www.niswarthsewa.com/product.html
+http://www.niswarthsewa.com/products.html
+http://www.niswarthsewa.com/product-detail.html
+http://www.niswarthsewa.com/shop.html
+http://www.niswarthsewa.com/shop2.html
+
+
+http://www.niswarthsewa.com/needy.html
+http://www.niswarthsewa.com/checkout.html
+
+http://www.niswarthsewa.com/donate-product.html
+http://www.niswarthsewa.com/doner-account.html
+http://www.niswarthsewa.com/profile.html
+http://www.niswarthsewa.com/profile2.html
+http://www.niswarthsewa.com/wish-list.html
+http://www.niswarthsewa.com/myads.html
+
+http://www.niswarthsewa.com/gallery.html
+http://www.niswarthsewa.com/gallery1.html
+
+http://www.niswarthsewa.com/faq.html
+http://www.niswarthsewa.com/testimonial.html
+
+http://www.niswarthsewa.com/about.html
+http://www.niswarthsewa.com/terms-condition.html
+
+http://www.niswarthsewa.com/contact.html
+
+
+=================================================================
+
+- This isn't a shopping site. Correct?
+- Do we need to remove these pages
+	http://www.niswarthsewa.com/needy.html
+	http://www.niswarthsewa.com/checkout.html
+- If yes, what will be link in palce of these pages?
+- We have 3 types of logins
+	Organization = will approve doner's products
+		       will have only one user or multiple? admin will create users? Won't be signup form?
+	Doner = will donate (can donate physical or virtual products)
+	Needy = will contact donar
+- Explain level of Categories?
+- Homepage category box showing 678 Experts, does it means doner in this category? I'm assuming.
+- We have two types of product page, Which one is correct?
+	http://www.niswarthsewa.com/product.html
+	http://www.niswarthsewa.com/products.html
+- Top Navigation pages. e.g.:
+	http://www.niswarthsewa.com/education.html
+
+Category Page
+- Onsale Products = Auto calculated, which product has higer sale?
+- Top Rated Products = From where user can rate?
+
+Product Detail Page
+- Donate Product = Product Upload
+- Chat with saller?
+- Doner Description?
+
+Profile
+- Plan Member since?
+- Products showing with dates?
+- Donate List?
+- Follwer / Follwing = Where is the provision to follow users?
+- Donated History = Donated by this particular user. I'm asumming.
+- Explain flow of these pages?
+	http://www.niswarthsewa.com/profile.html
+	http://www.niswarthsewa.com/profile2.html
+
+Wishlist
+- Design seems incorrect?
+
+My Ads
+- Flow and features of this page?
+	http://www.niswarthsewa.com/myads.html
+
+Gallery
+- Managable by admin. correct?
+	http://www.niswarthsewa.com/gallery.html
+
+Need small things explaination:
+- Homepage banner Get Started
+- Homepage Request For Quotation
+- Homepage CHOOSE YOUR SUPPLIES BY REGIONS
+- Blog will be in WP?
